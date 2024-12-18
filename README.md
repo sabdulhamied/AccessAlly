@@ -1,12 +1,5 @@
-     .oo                                         .oo 8 8        
-    .P 8                                        .P 8 8 8        
-   .P  8 .oPYo. .oPYo. .oPYo. .oPYo. .oPYo.    .P  8 8 8 o    o 
-  oPooo8 8    ' 8    ' 8oooo8 Yb..   Yb..     oPooo8 8 8 8    8 
- .P    8 8    . 8    . 8.       'Yb.   'Yb.  .P    8 8 8 8    8 
-.P     8 .YooP' .YooP' .Yooo' .YooP' .YooP' .P     8 8 8 .YooP8 
-..:::::..:.....::.....::.....::.....::.....:..:::::......:....8 
-::::::::https://www.linkedin.com/in/hamidbash/:::::::::::::ooP'.
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::...::
+![image](https://github.com/user-attachments/assets/dc7170bf-caab-498b-a9c6-fc812c448168)
+
 
 # AccessAlly
 AccessAlly is your friend for managing file access, making it easy and providing support for Linux server operating systems.
