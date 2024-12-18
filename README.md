@@ -1,5 +1,5 @@
-![image](https://github.com/user-attachments/assets/dc7170bf-caab-498b-a9c6-fc812c448168)
 
+![2024-12-18 20_02_16-Window](https://github.com/user-attachments/assets/f33d5189-ed32-41ac-9d5f-3d651ca534f9)
 
 # AccessAlly
 AccessAlly is your friend for managing file access, making it easy and providing support for Linux server operating systems.
